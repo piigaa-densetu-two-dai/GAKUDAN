@@ -11,10 +11,10 @@ https://github.com/digital-sound-antiques/emu2413
 
 結線方法
 
-MSXπ側  S/PDIF送信用コネクター側
-VCC     VCC
-GND     GND
-DOUT    信号入力
+MSX交響楽団側   S/PDIF送信用コネクター側
+VCC             VCC
+GND             GND
+DOUT            信号入力
 
 音声フォーマットは16ビット、ステレオ2CH(左:PSG+PPI+SCC 右:FM)、サンプルレート44100Hzです。
 

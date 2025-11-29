@@ -10,13 +10,13 @@ https://github.com/digital-sound-antiques/emu2413
 
 結線方法
 
-MSXπ側  DACモジュール側
-VCC     5V
-GND     GND
-LRCK    LRCK
-DOUT    DIN
-BCK     BCK
-N.C.    接続不要(SCKを接続しても構いません)
+MSX交響楽団側   DACモジュール側
+VCC             5V
+GND             GND
+LRCK            LRCK
+DOUT            DIN
+BCK             BCK
+N.C.            接続不要(SCKを接続しても構いません)
 
 音声フォーマットは16ビット、ステレオ2CH(左:PSG+PPI+SCC 右:FM)、サンプルレート49716Hzです。
 
