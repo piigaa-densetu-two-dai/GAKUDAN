@@ -2,7 +2,7 @@ PSG音源(内蔵音源)+PPI音源(内蔵1bit音源)+FM音源(MSX-MUSICC)+SCC音�
 同一スロットにFMBIOSとSCCレジスターを配置しました。
 スロット拡張は行なっていないので拡張スロットでも使用出来ます。
 
-S/PDIF出力版なので別途、S/PDIF送信用コネクターが必用です。
+S/PDIF出力版なので別途、S/PDIF送信用コネクターが必要です。
 例: https://akizukidenshi.com/catalog/g/g109596/
 
 音声データの生成にemu2149/emu2413(great!)を使用しています。

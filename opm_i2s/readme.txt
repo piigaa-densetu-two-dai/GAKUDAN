@@ -7,7 +7,7 @@ VGMPlay(https://www.grauw.nl/projects/vgmplay-msx/)でOPMサウンドが再生�
 音声データの生成にymfm(great!)を使用しています。
 https://github.com/aaronsgiles/ymfm
 
-I2S出力版なので別途、PCM5102等のI2S対応DACモジュールが必用です。
+I2S出力版なので別途、PCM5102等のI2S対応DACモジュールが必要です。
 
 結線方法
 
